@@ -1,8 +1,8 @@
 <div align="right">
 
-  [![license](https://img.shields.io/github/license/block-foundation/solidity-architectural-design?color=green&label=license&style=flat-square)](LICENSE.md)
-  ![stars](https://img.shields.io/github/stars/block-foundation/solidity-architectural-design?color=blue&label=stars&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/solidity-architectural-design?color=blue&label=contributors&style=flat-square)
+  [![license](https://img.shields.io/github/license/block-foundation/teal-architectural-design?color=green&label=license&style=flat-square)](LICENSE.md)
+  ![stars](https://img.shields.io/github/stars/block-foundation/teal-architectural-design?color=blue&label=stars&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/block-foundation/teal-architectural-design?color=blue&label=contributors&style=flat-square)
 
 </div>
 
@@ -42,17 +42,6 @@
 
 ## Quick Start
 
-> Install
-
-``` sh
-npm i
-```
-
-> Compile
-
-``` sh
-npm run compile
-```
 
 ## Contract
 
